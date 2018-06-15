@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Archives | Luuman&#39;s Blog</title>
+  <title>Luuman&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="luuman，90后，水瓶座普通男青年！爱折腾，爱运动，更爱游离于错综复杂的编码与逻辑中，无法自拔。相信编程是一门艺术，自诩为游弋在代码里的人生。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Luuman&#39;s Blog">
-<meta property="og:url" content="http://luuman.github.io/archives/index.html">
+<meta property="og:url" content="http://luuman.github.io/index.html">
 <meta property="og:site_name" content="Luuman&#39;s Blog">
 <meta property="og:description" content="luuman，90后，水瓶座普通男青年！爱折腾，爱运动，更爱游离于错综复杂的编码与逻辑中，无法自拔。相信编程是一门艺术，自诩为游弋在代码里的人生。">
 <meta property="og:locale" content="zh-Hans">
@@ -28,6 +28,9 @@
   <link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   
+    
+    
+  
   
       <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
   
@@ -39,9 +42,9 @@
           rootUrl: '/',
           fancybox: true,
           animate: true,
-          isHome: false,
+          isHome: true,
           isPost: false,
-          isArchive: true,
+          isArchive: false,
           isTag: false,
           isCategory: false,
           open_in_new: false
@@ -61,11 +64,11 @@
         </a>
 
         <hgroup>
-          <h1 class="header-author"><a href="/" title="Hi Mate">世平阜康</a></h1>
+          <h1 class="header-author"><a href="/" title="Hi Mate">我的编程之路</a></h1>
         </hgroup>
 
         
-        <p class="header-subtitle">因为有了危机感，所以会义无反顾。</p>
+        <p class="header-subtitle">只要愿意，没有什么事情不能解决。</p>
         
         
             <form>
@@ -135,19 +138,19 @@
                             
                                 <a class="fl mail" target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E" title="mail">mail</a>
                             
-                                <a class="fl github" target="_blank" href="https://github.com/luuman" title="github">github</a>
+                                <a class="fl github" target="_blank" href="https://github.com/sccxy" title="github">github</a>
                             
-                                <a class="fl zhihu" target="_blank" href="https://www.zhihu.com/people/luuman" title="zhihu">zhihu</a>
+                                <a class="fl zhihu" target="_blank" href="https://www.zhihu.com/people/wdbczl" title="zhihu">zhihu</a>
                             
-                                <a class="fl weibo" target="_blank" href="http://weibo.com/lishangmou" title="weibo">weibo</a>
+                                <a class="fl weibo" target="_blank" href="http://weibo.com/wdbczl" title="weibo">weibo</a>
                             
-                                <a class="fl google" target="_blank" href="http://i.youku.com/shangmou" title="google">google</a>
+                                <a class="fl google" target="_blank" href="http://i.youku.com/wdbczl" title="google">google</a>
                             
-                                <a class="fl twitter" target="_blank" href="http://twitter.com/luuman" title="twitter">twitter</a>
+                                <a class="fl twitter" target="_blank" href="http://twitter.com/jolezhu" title="twitter">twitter</a>
                             
-                                <a class="fl Instagram" target="_blank" href="https://www.instagram.com/luumans/" title="Instagram">Instagram</a>
+                                <a class="fl Instagram" target="_blank" href="https://www.instagram.com/jolezhu/" title="Instagram">Instagram</a>
                             
-                                <a class="fl linkedin" target="_blank" href="https://www.linkedin.com/in/%E5%BF%A0%E6%88%90-%E6%9D%8E-a48562b1" title="linkedin">linkedin</a>
+                                <a class="fl linkedin" target="_blank" href="https://www.linkedin.com" title="linkedin">linkedin</a>
                             
                         </ul>
                     </nav>
@@ -223,9 +226,9 @@
                 
                     <li><a href="/Home">博客首页</a></li>
                 
-                    <li><a href="/works">作品展示</a></li>
+                    <li><a href="/Home">作品展示</a></li>
                 
-                    <li><a href="/about">留言打卡</a></li>
+                    <li><a href="/Home">留言打卡</a></li>
                 
                     <li><a href="/FrontEndGuideV2/FrontEndGuide/">前端导航</a></li>
                 
@@ -258,375 +261,686 @@
 </nav>
       <div class="body-wrap">
   
+    <article id="post-Induce/Skill/SEO" class="article article-type-post" itemscope itemprop="blogPost">
   
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2018" class="archive-year">2018</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/03/27/Induce/Skill/SEO/" class="archive-article-date">
-      <time datetime="2018-03-27T11:29:00.000Z" itemprop="datePublished">03-27</time>
+    <div class="article-meta">
+      <a href="/2018/03/27/Induce/Skill/SEO/" class="article-date">
+      <time datetime="2018-03-27T11:29:00.000Z" itemprop="datePublished">2018-03-27</time>
 </a>
-        </div>
-         
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/03/27/Induce/Skill/SEO/">前端网站SEO执行策略</a>
+      <a class="article-title" href="/2018/03/27/Induce/Skill/SEO/">前端网站SEO执行策略</a>
     </h1>
   
 
-        <div class="article-info info-on-archive">
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
           
+              SEO （ Search Engine Optimization ）搜索引擎优化在搜索引擎时代对于网站来讲意义重大。一个网站，不管是小站还是大站，都离不开搜索引擎的流量导入，所以，做好 SEO 一直都是网站站长\开发者一门重要的功课。
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
     <div class="article-category tagcloud">
     <a class="article-category-link" href="/categories/SEO/">SEO</a>
     </div>
 
-          
+      
     <div class="article-tag tagcloud">
         <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/SEO/">SEO</a></li></ul>
     </div>
 
-        </div>
-        <div class="clearfix"></div>
-    </header>
+      
+        <p class="article-more-link">
+          <a  href="/2018/03/27/Induce/Skill/SEO/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
   </div>
-</article>
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/03/25/Induce/JavaScript/Base/IntroductionToAlgorithms/" class="archive-article-date">
-      <time datetime="2018-03-25T10:29:00.000Z" itemprop="datePublished">03-25</time>
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/IntroductionToAlgorithms" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/03/25/Induce/JavaScript/Base/IntroductionToAlgorithms/" class="article-date">
+      <time datetime="2018-03-25T10:29:00.000Z" itemprop="datePublished">2018-03-25</time>
 </a>
-        </div>
-         
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/03/25/Induce/JavaScript/Base/IntroductionToAlgorithms/">JavaScript 算法初探</a>
+      <a class="article-title" href="/2018/03/25/Induce/JavaScript/Base/IntroductionToAlgorithms/">JavaScript 算法初探</a>
     </h1>
   
 
-        <div class="article-info info-on-archive">
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
           
+              <p><a href="https://www.jianshu.com/p/1b4068ccd505" target="_blank" rel="external">https://www.jianshu.com/p/1b4068ccd505</a><br><a href="http://louiszhai.github.io/2016/12/23/sort/" target="_blank" rel="external">http://louiszhai.github.io/2016/12/23/sort/</a></p>
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
     <div class="article-category tagcloud">
     <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
     </div>
 
-          
+      
     <div class="article-tag tagcloud">
         <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Algorithms/">Algorithms</a></li></ul>
     </div>
 
-        </div>
-        <div class="clearfix"></div>
-    </header>
+      
+        <p class="article-more-link">
+          <a  href="/2018/03/25/Induce/JavaScript/Base/IntroductionToAlgorithms/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
   </div>
-</article>
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/03/25/Induce/JavaScript/Base/ArrayMax/" class="archive-article-date">
-      <time datetime="2018-03-25T10:29:00.000Z" itemprop="datePublished">03-25</time>
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/ArrayMax" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/03/25/Induce/JavaScript/Base/ArrayMax/" class="article-date">
+      <time datetime="2018-03-25T10:29:00.000Z" itemprop="datePublished">2018-03-25</time>
 </a>
-        </div>
-         
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/03/25/Induce/JavaScript/Base/ArrayMax/">JavaScript 数组方法汇总</a>
+      <a class="article-title" href="/2018/03/25/Induce/JavaScript/Base/ArrayMax/">JavaScript 数组方法汇总</a>
     </h1>
   
 
-        <div class="article-info info-on-archive">
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
           
+              <h1 id="数组最大值"><a href="#数组最大值" class="headerlink" title="数组最大值"></a>数组最大值</h1><h2 id="es6拓展运算符…"><a href="#es6拓展运算符…" class="headerlink" title="es6拓展运算符…"></a>es6拓展运算符…</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> arr = [<span class="number">-1</span>, <span class="number">1</span>, <span class="number">101</span>, <span class="number">-52</span>, <span class="number">10</span>, <span class="number">1001</span>, <span class="number">1001</span>]</div><div class="line"><span class="built_in">Math</span>.max(...arr)</div></pre></td></tr></table></figure>
+<h2 id="es5-apply-与方法1原理相同"><a href="#es5-apply-与方法1原理相同" class="headerlink" title="es5 apply(与方法1原理相同)"></a>es5 apply(与方法1原理相同)</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> arr = [<span class="number">-1</span>, <span class="number">1</span>, <span class="number">101</span>, <span class="number">-52</span>, <span class="number">10</span>, <span class="number">1001</span>, <span class="number">1001</span>]</div><div class="line"><span class="built_in">Math</span>.max.apply(<span class="literal">null</span>,arr)</div></pre></td></tr></table></figure>
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
     <div class="article-category tagcloud">
     <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
     </div>
 
-          
+      
     <div class="article-tag tagcloud">
         <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Array/">Array</a></li></ul>
     </div>
 
-        </div>
-        <div class="clearfix"></div>
-    </header>
+      
+        <p class="article-more-link">
+          <a  href="/2018/03/25/Induce/JavaScript/Base/ArrayMax/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
   </div>
-</article>
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/03/15/Induce/JavaScript/Base/millionDataShow/" class="archive-article-date">
-      <time datetime="2018-03-15T10:29:00.000Z" itemprop="datePublished">03-15</time>
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/millionDataShow" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/03/15/Induce/JavaScript/Base/millionDataShow/" class="article-date">
+      <time datetime="2018-03-15T10:29:00.000Z" itemprop="datePublished">2018-03-15</time>
 </a>
-        </div>
-         
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/03/15/Induce/JavaScript/Base/millionDataShow/">上万的数据如何在前端页面快速展示？</a>
+      <a class="article-title" href="/2018/03/15/Induce/JavaScript/Base/millionDataShow/">上万的数据如何在前端页面快速展示？</a>
     </h1>
   
 
-        <div class="article-info info-on-archive">
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
           
+              <p>前端要呈现百万数据，这个需求是很少见的，但是展示千条稍微复杂点的数据，这种需求还是比较常见，只要内存够，javascript 肯定是吃得消的，计算几千上万条数据，js 效率根本不在话下，但是 DOM 的渲染浏览器扛不住，CPU 稍微搓点的电脑必然会卡爆。<br>首先，这种情况很少见。如果要在前端呈现大量的数据，一般的策略就是分页。虽然这么说，但是如果展示上百条数据，图片资源消耗，也会让页面发生卡顿。<br>
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
     <div class="article-category tagcloud">
     <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
     </div>
 
-          
+      
     <div class="article-tag tagcloud">
         <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
     </div>
 
-        </div>
-        <div class="clearfix"></div>
-    </header>
+      
+        <p class="article-more-link">
+          <a  href="/2018/03/15/Induce/JavaScript/Base/millionDataShow/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
   </div>
-</article>
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/02/28/Induce/JavaScript/Base/callApplyBind/" class="archive-article-date">
-      <time datetime="2018-02-28T11:29:00.000Z" itemprop="datePublished">02-28</time>
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/callApplyBind" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/02/28/Induce/JavaScript/Base/callApplyBind/" class="article-date">
+      <time datetime="2018-02-28T11:29:00.000Z" itemprop="datePublished">2018-02-28</time>
 </a>
-        </div>
-         
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/02/28/Induce/JavaScript/Base/callApplyBind/">Javascript call apply bind</a>
+      <a class="article-title" href="/2018/02/28/Induce/JavaScript/Base/callApplyBind/">Javascript call apply bind</a>
     </h1>
   
 
-        <div class="article-info info-on-archive">
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
           
+              <h1 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h1><p>继承自Function.prototype中的，所以这三个方法都可以在对象，数组，函数中使用。<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Function</span>.prototype.hasOwnProperty(<span class="string">'call'</span>))</div><div class="line"><span class="comment">// true</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Function</span>.prototype.hasOwnProperty(<span class="string">'apply'</span>))</div><div class="line"><span class="comment">// true</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Function</span>.prototype.hasOwnProperty(<span class="string">'bind'</span>))</div><div class="line"><span class="comment">// true</span></div></pre></td></tr></table></figure></p>
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
     <div class="article-category tagcloud">
     <a class="article-category-link" href="/categories/Javascript/">Javascript</a>
     </div>
 
-          
+      
     <div class="article-tag tagcloud">
         <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Javascript/">Javascript</a></li></ul>
     </div>
 
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/02/28/Induce/JavaScript/Base/fnCurrying/" class="archive-article-date">
-      <time datetime="2018-02-28T10:29:00.000Z" itemprop="datePublished">02-28</time>
-</a>
-        </div>
-         
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/02/28/Induce/JavaScript/Base/fnCurrying/">JavaScript currying</a>
-    </h1>
-  
-
-        <div class="article-info info-on-archive">
-          
-    <div class="article-category tagcloud">
-    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
-    </div>
-
-          
-    <div class="article-tag tagcloud">
-        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
-    </div>
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/02/27/Induce/JavaScript/Base/1.10-RegExpObjects/" class="archive-article-date">
-      <time datetime="2018-02-27T10:29:00.000Z" itemprop="datePublished">02-27</time>
-</a>
-        </div>
-         
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/02/27/Induce/JavaScript/Base/1.10-RegExpObjects/">JavaScript RegExpObjects 正则表达式</a>
-    </h1>
-  
-
-        <div class="article-info info-on-archive">
-          
-    <div class="article-category tagcloud">
-    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
-    </div>
-
-          
-    <div class="article-tag tagcloud">
-        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
-    </div>
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/02/27/Induce/JavaScript/Base/2.2.3-DomLifeCycle/" class="archive-article-date">
-      <time datetime="2018-02-27T10:29:00.000Z" itemprop="datePublished">02-27</time>
-</a>
-        </div>
-         
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/02/27/Induce/JavaScript/Base/2.2.3-DomLifeCycle/">页面生命周期</a>
-    </h1>
-  
-
-        <div class="article-info info-on-archive">
-          
-    <div class="article-category tagcloud">
-    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
-    </div>
-
-          
-    <div class="article-tag tagcloud">
-        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
-    </div>
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2018/02/25/Induce/JavaScript/Base/1.1-Introduction/" class="archive-article-date">
-      <time datetime="2018-02-25T10:29:00.000Z" itemprop="datePublished">02-25</time>
-</a>
-        </div>
-         
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/02/25/Induce/JavaScript/Base/1.1-Introduction/">JavaScript Introduction 简介</a>
-    </h1>
-  
-
-        <div class="article-info info-on-archive">
-          
-    <div class="article-category tagcloud">
-    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
-    </div>
-
-          
-    <div class="article-tag tagcloud">
-        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
-    </div>
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
       
-        </div></section>
+        <p class="article-more-link">
+          <a  href="/2018/02/28/Induce/JavaScript/Base/callApplyBind/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/fnCurrying" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/02/28/Induce/JavaScript/Base/fnCurrying/" class="article-date">
+      <time datetime="2018-02-28T10:29:00.000Z" itemprop="datePublished">2018-02-28</time>
+</a>
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2018/02/28/Induce/JavaScript/Base/fnCurrying/">JavaScript currying</a>
+    </h1>
+  
+
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+          
+              <p>在计算机科学中，柯里化（英语：Currying），又译为<code>卡瑞化</code>或<code>加里化</code>，是把接受多个参数的函数变换成接受一个单一参数（最初函数的第一个参数）的函数，并且返回接受余下的参数而且返回结果的新函数的技术。这个技术由<code>克里斯托弗·斯特雷奇</code>以逻辑学家<code>哈斯凯尔·加里</code>命名的，尽管它是<code>Moses Schönfinkel</code>和<code>戈特洛布·弗雷格</code>发明的。</p>
+<p>高阶函数的特点：</p>
+<ol>
+<li>函数可以作为参数被传递；</li>
+<li>函数可以作为返回值输出。</li>
+</ol>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> foo = <span class="function"><span class="keyword">function</span>(<span class="params">a</span>) </span>&#123;</div><div class="line">  <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params">b</span>) </span>&#123;</div><div class="line">    <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params">c</span>) </span>&#123;</div><div class="line">      <span class="keyword">return</span> a+b+c;</div><div class="line">    &#125;;</div><div class="line">  &#125;;</div><div class="line">&#125;;</div></pre></td></tr></table></figure>
+          
       
       
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2017" class="archive-year">2017</a>
-        </div>
-        <div class="archives">
+    </div>
     
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-          <div class="article-meta">
-              <a href="/2017/08/29/Tool/GitWorkflows/" class="archive-article-date">
-      <time datetime="2017-08-29T06:11:20.000Z" itemprop="datePublished">08-29</time>
+    <div class="article-info article-info-index">
+      
+      
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
+    </div>
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
+    </div>
+
+      
+        <p class="article-more-link">
+          <a  href="/2018/02/28/Induce/JavaScript/Base/fnCurrying/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/1.10-RegExpObjects" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/02/27/Induce/JavaScript/Base/1.10-RegExpObjects/" class="article-date">
+      <time datetime="2018-02-27T10:29:00.000Z" itemprop="datePublished">2018-02-27</time>
 </a>
-        </div>
-         
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2017/08/29/Tool/GitWorkflows/">Git Workflows</a>
+      <a class="article-title" href="/2018/02/27/Induce/JavaScript/Base/1.10-RegExpObjects/">JavaScript RegExpObjects 正则表达式</a>
     </h1>
   
 
-        <div class="article-info info-on-archive">
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
           
+              <p>一个个音符杂乱无章的组合在一起，弹奏出的或许就是噪音，同样的音符经过作曲家的手，就可以谱出非常动听的乐曲，一个演奏者同样可以照着乐谱奏出动听的乐曲，但他/她或许不知道该如何去改变音符的组合，使得乐曲更动听。<br>作为正则的使用者也一样，不懂正则引擎原理的情况下，同样可以写出满足需求的正则，但是不知道原理，却很难写出高效且没有隐患的正则。所以对于经常使用正则，或是有兴趣深入学习正则的人，还是有必要了解一下正则引擎的匹配原理的。<br>
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
+    </div>
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
+    </div>
+
+      
+        <p class="article-more-link">
+          <a  href="/2018/02/27/Induce/JavaScript/Base/1.10-RegExpObjects/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/2.2.3-DomLifeCycle" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/02/27/Induce/JavaScript/Base/2.2.3-DomLifeCycle/" class="article-date">
+      <time datetime="2018-02-27T10:29:00.000Z" itemprop="datePublished">2018-02-27</time>
+</a>
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2018/02/27/Induce/JavaScript/Base/2.2.3-DomLifeCycle/">页面生命周期</a>
+    </h1>
+  
+
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+          
+              <h1 id="DOMContentLoaded"><a href="#DOMContentLoaded" class="headerlink" title="DOMContentLoaded"></a>DOMContentLoaded</h1><p>浏览器已经完全加载了HTML，DOM树已经构建完毕，但是像是 <img> 和样式表等外部资源可能并没有下载完毕。</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">document</span>.addEventListener(<span class="string">"DOMContentLoaded"</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">	<span class="built_in">console</span>.log(<span class="string">'DOMContentLoaded'</span>)</div><div class="line">&#125;)</div></pre></td></tr></table></figure>
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
+    </div>
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
+    </div>
+
+      
+        <p class="article-more-link">
+          <a  href="/2018/02/27/Induce/JavaScript/Base/2.2.3-DomLifeCycle/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Induce/JavaScript/Base/1.1-Introduction" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/02/25/Induce/JavaScript/Base/1.1-Introduction/" class="article-date">
+      <time datetime="2018-02-25T10:29:00.000Z" itemprop="datePublished">2018-02-25</time>
+</a>
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2018/02/25/Induce/JavaScript/Base/1.1-Introduction/">JavaScript Introduction 简介</a>
+    </h1>
+  
+
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+          
+              <p>JavaScript是面向Web的编程语言，绝大多数现代网站都使用了JavaScript，并且所有的现代Web浏览器（电脑，手机，平板）均包含了JavaScript解释器。<br>这使得JavaScript能够称得上史上使用最广泛的编程语言。JavaScript也是前端开发工程师必须掌握的三种技能之一：描述网页内容的HTML、描述网页样式的CSS、以及描述网页行为的JavaScript。<br>
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/JavaScript/">JavaScript</a>
+    </div>
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li></ul>
+    </div>
+
+      
+        <p class="article-more-link">
+          <a  href="/2018/02/25/Induce/JavaScript/Base/1.1-Introduction/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+
+
+  
+    <article id="post-Tool/GitWorkflows" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2017/08/29/Tool/GitWorkflows/" class="article-date">
+      <time datetime="2017-08-29T06:11:20.000Z" itemprop="datePublished">2017-08-29</time>
+</a>
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2017/08/29/Tool/GitWorkflows/">Git Workflows</a>
+    </h1>
+  
+
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+          
+              <h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><p>随着团队不断的壮大，业务流程迭代。代码工作流的规范是显而易见的。为了保证开发速度，我们不断改进完善这个发布流程，让这个过程更简单、高效。<br>这篇指南以大家在SVN中已经广为熟悉使用的集中式工作流作为起点，循序渐进地演进到其它高效的分布式工作流，还介绍了如何配合使用便利的Pull Request功能，体系地讲解了各种工作流的应用。<br>在阅读过程中，请记住这些工作流是指导原则，而不是具体规则。我们想向您展示什么是可能的，因此您可以混合和匹配来自不同工作流的方面，以满足您的个人需求。</p>
+<p>常见问题：</p>
+<ol>
+<li>我们以使用SVN的工作流来使用Git有什么不妥？</li>
+<li>如何控制开发版本？</li>
+<li>Git方便的branch在哪里，团队多人如何协作？冲突了怎么办？如何进行发布控制？</li>
+<li>经典的master-发布、develop-主开发、hotfix-bug修复如何避免代码不经过验证上线？</li>
+<li>如何在GitHub上面与他人一起协作，star-fork-pull request是怎样的流程？
+          
+      
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
     <div class="article-category tagcloud">
     <a class="article-category-link" href="/categories/Tool/">Tool</a>
     </div>
 
-          
+      
     <div class="article-tag tagcloud">
         <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Git/">Git</a></li></ul>
     </div>
 
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-  
-    </div></section>
-  
-
+      
+        <p class="article-more-link">
+          <a  href="/2017/08/29/Tool/GitWorkflows/#more">大航海 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
     
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+
+
+  
+  
     <nav id="page-nav">
-      <span class="page-number current">1</span><a class="page-number" href="/archives/page/2/">2</a><a class="page-number" href="/archives/page/3/">3</a><span class="space">&hellip;</span><a class="page-number" href="/archives/page/8/">8</a><a class="extend next" rel="next" href="/archives/page/2/">Next &raquo;</a>
+      <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><span class="space">&hellip;</span><a class="page-number" href="/page/8/">8</a><a class="extend next" rel="next" href="/page/2/">Next &raquo;</a>
     </nav>
   
-
 </div>
       <footer id="footer">
     <div class="outer">
@@ -701,17 +1015,6 @@
         };
     })
 </script>
-
-    <button class="hide-labels">TAG 开关</button>
-    <script src="https://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js">
-    </script>
-    <script>
-        $(document).ready(function() {
-            $("button").click(function() {
-                $(".article-info").toggle(200);
-            });
-        });
-    </script>
 
 <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
