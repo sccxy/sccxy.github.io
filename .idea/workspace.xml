@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7048d93a-8984-4f5f-bd2d-e6f4a351f1e3" name="Default" comment="" />
+    <list default="true" id="7048d93a-8984-4f5f-bd2d-e6f4a351f1e3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="sccxy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +25,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="0" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.5265306">
+            <state line="59" column="16" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.41020408">
               <folding />
             </state>
           </provider>
@@ -196,7 +198,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.5265306">
+        <state line="59" column="16" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.41020408">
           <folding />
         </state>
       </provider>
