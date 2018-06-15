@@ -133,7 +133,27 @@
                         
                         </ul>
                     </nav>
-                    
+                    <nav class="header-nav">
+                        <ul class="social">
+                            
+                                <a class="fl mail" target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E" title="mail">mail</a>
+                            
+                                <a class="fl github" target="_blank" href="https://github.com/sccxy" title="github">github</a>
+                            
+                                <a class="fl zhihu" target="_blank" href="https://www.zhihu.com/people/wdbczl" title="zhihu">zhihu</a>
+                            
+                                <a class="fl weibo" target="_blank" href="http://weibo.com/wdbczl" title="weibo">weibo</a>
+                            
+                                <a class="fl google" target="_blank" href="http://i.youku.com/wdbczl" title="google">google</a>
+                            
+                                <a class="fl twitter" target="_blank" href="http://twitter.com/jolezhu" title="twitter">twitter</a>
+                            
+                                <a class="fl Instagram" target="_blank" href="https://www.instagram.com/jolezhu/" title="Instagram">Instagram</a>
+                            
+                                <a class="fl linkedin" target="_blank" href="https://www.linkedin.com" title="linkedin">linkedin</a>
+                            
+                        </ul>
+                    </nav>
                 </section>
                 
                 
@@ -201,7 +221,20 @@
             
             <p class="header-subtitle">只要愿意，没有什么事情不能解决。</p>
             
-           
+            <nav class="header-menu">
+                <ul>
+                
+                    <li><a href="/Home">博客首页</a></li>
+                
+                    <li><a href="/Home">作品展示</a></li>
+                
+                    <li><a href="/Home">留言打卡</a></li>
+                
+                    <li><a href="/FrontEndGuideV2/FrontEndGuide/">前端导航</a></li>
+                
+                <div class="clearfix"></div>
+                </ul>
+            </nav>
             <nav class="header-nav">
                 <div class="social">
                     
