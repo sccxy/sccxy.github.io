@@ -1,0 +1,14 @@
+*.pyc
+.Python
+bin
+include
+lib
+pip-selfcheck.json
+Lib
+Include
+Scripts
+tcl
+output
+__pycache__
+.vscode
+plugins
